@@ -27,7 +27,7 @@ voyage passionnant où la ligne entre la réalité et le code s'estompe, et où 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" height="50" style="margin-right: 30px" />
 <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" height="50" style="margin-right: 20px" />
  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" height="50" style="margin-right: 20px" />
- <img src="https://reactjs.org/logo-og.png" height="50" style="margin-right: 20px" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" height="50" style="margin-right: 20px" />
  <img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="50" style="margin-right: 20px" />
  <img src="https://nestjs.com/img/logo_text.svg" height="50" style="margin-right: 20px" />
  <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="50" style="margin-right: 20px" />
