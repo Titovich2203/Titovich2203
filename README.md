@@ -17,8 +17,9 @@ Bien sûr, voici une proposition de biographie stylée pour ton GitHub :
 
 🚀 "Code is poetry, and I'm a storyteller."
 
-## Technologies que j'utilise 🔧
+## Quelques technologies que j'utilise 🔧
 
+<div style="display: flex">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" height="50" />
 <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" height="50" />
  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" height="50" />
@@ -43,14 +44,14 @@ Bien sûr, voici une proposition de biographie stylée pour ton GitHub :
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="50" />
  <img src="https://developer.android.com/studio/images/studio-icon.svg" height="50" />
  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" height="50" />
-
+</div>
+<!--
 ## Statistiques GitHub 📈
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Titovich2203&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
 
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Titovich2203&layout=compact&theme=dark)
 
-<!--
 **Titovich2203/Titovich2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
