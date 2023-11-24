@@ -2,18 +2,22 @@
 
 ![Bannière GitHub](https://raw.githubusercontent.com/Titovich2203/Titovich2203/main/levich.jpg)
 
-
-Bien sûr, voici une proposition de biographie stylée pour ton GitHub :
-
 👋 Salut, je suis Tito!
 
-🚀 Passionné de développement depuis l'aube de mes 16 ans, je suis un codeur de 22 ans avec une expérience de 6 ans. J'ai laissé mon empreinte sur plus d'une cinquantaine de projets, jonglant avec une multitude de technologies ;)
+🚀 Passionné de développement depuis l'aube de mes 16 ans, je suis un codeur de 22 ans avec une expérience de 6 ans.
+J'ai laissé mon empreinte sur plus d'une cinquantaine de projets, jonglant avec une multitude de technologies ;)
 
-📚 En dehors du clavier, je suis un fervent lecteur, avide de connaissances et de découvertes. Ma passion pour la lecture se mêle harmonieusement à mon amour pour le développement personnel, créant un équilibre aussi instable qu'unique dans ma vie.
+📚 En dehors du clavier, je suis un fervent lecteur, avide de connaissances et de découvertes. Ma passion pour la
+lecture se mêle harmonieusement à mon amour pour le développement personnel, créant un équilibre aussi instable
+qu'unique dans ma vie.
 
-💻 En tant que co-fondateur de [CODIFY](https://codify-sn.com/), je participe à ma petite échelle à la construction d'un avenir numérique un tout petit mieux qu'hier. En parallèle, je suis également impliqué dans le monde fascinant de la finance en tant que co-fondateur de [COPAY](https://copay.sn/), une fintech dédiée à repousser les frontières de la finance moderne.
+💻 En tant que co-fondateur de [CODIFY](https://codify-sn.com/), je participe à ma petite échelle à la construction d'un
+avenir numérique un tout petit mieux qu'hier. En parallèle, je suis également impliqué dans le monde fascinant de la
+finance en tant que co-fondateur de [COPAY](https://copay.sn/), une fintech dédiée à repousser les frontières de la
+finance moderne.
 
-🌐 Mon univers tourne autour de l'informatique, de la lecture et de l'exploration constante. Rejoignez-moi dans ce voyage passionnant où la ligne entre la réalité et le code s'estompe, et où chaque projet est une aventure en soi.
+🌐 Mon univers tourne autour de l'informatique, de la lecture et de l'exploration constante. Rejoignez-moi dans ce
+voyage passionnant où la ligne entre la réalité et le code s'estompe, et où chaque projet est une aventure en soi.
 
 🚀 "Code is poetry, and I'm a storyteller."
 
@@ -52,7 +56,8 @@ Bien sûr, voici une proposition de biographie stylée pour ton GitHub :
 
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Titovich2203&layout=compact&theme=dark)
 
-**Titovich2203/Titovich2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Titovich2203/Titovich2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub
+profile.
 
 Here are some ideas to get you started:
 
@@ -64,4 +69,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
