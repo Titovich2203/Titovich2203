@@ -19,7 +19,7 @@ Bien sûr, voici une proposition de biographie stylée pour ton GitHub :
 
 ## Quelques technologies que j'utilise 🔧
 
-<div style="display: flex">
+<div style="display: flex; justify-content: space-around">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" height="50" />
 <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" height="50" />
  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" height="50" />
