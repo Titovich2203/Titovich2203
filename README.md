@@ -24,30 +24,30 @@ voyage passionnant où la ligne entre la réalité et le code s'estompe, et où 
 ## Quelques technologies que j'utilise 🔧
 
 <div style="display: flex;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" height="50" style="margin: 20px" />
-<img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" height="50" style="margin: 20px" />
- <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" height="50" style="margin: 20px" />
- <img src="https://reactjs.org/logo-og.png" height="50" style="margin: 20px" />
- <img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="50" style="margin: 20px" />
- <img src="https://nestjs.com/img/logo_text.svg" height="50" style="margin: 20px" />
- <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="50" style="margin: 20px" />
- <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" height="50" style="margin: 20px" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50" style="margin: 20px" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" style="margin: 20px" />
- <img src="https://www.php.net/images/logos/new-php-logo.svg" height="50" style="margin: 20px" />
- <img src="https://symfony.com/images/logos/header-logo.svg" height="50" style="margin: 20px" />
- <img src="https://laravel.com/img/logomark.min.svg" height="50" style="margin: 20px" />
- <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" height="50" style="margin: 20px" />
- <img src="https://cdn-icons-png.flaticon.com/512/825/825533.png" height="50" style="margin: 20px" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Shopify_logo_2018.svg/2560px-Shopify_logo_2018.svg.png" height="50" style="margin: 20px" />
- <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="50" style="margin: 20px" />
- <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="50" style="margin: 20px" />
- <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2015-2017.png" height="50" style="margin: 20px" />
- <img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" height="50" style="margin: 20px" />
- <img src="https://nodejs.org/static/images/logo.svg" height="50" style="margin: 20px" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="50" style="margin: 20px" />
- <img src="https://developer.android.com/studio/images/studio-icon.svg" height="50" style="margin: 20px" />
- <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" height="50" style="margin: 20px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" height="50" style="margin-right: 30px" />
+<img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" height="50" style="margin-right: 20px" />
+ <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" height="50" style="margin-right: 20px" />
+ <img src="https://reactjs.org/logo-og.png" height="50" style="margin-right: 20px" />
+ <img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="50" style="margin-right: 20px" />
+ <img src="https://nestjs.com/img/logo_text.svg" height="50" style="margin-right: 20px" />
+ <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="50" style="margin-right: 20px" />
+ <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" height="50" style="margin-right: 20px" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50" style="margin-right: 20px" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" style="margin-right: 20px" />
+ <img src="https://www.php.net/images/logos/new-php-logo.svg" height="50" style="margin-right: 20px" />
+ <img src="https://symfony.com/images/logos/header-logo.svg" height="50" style="margin-right: 20px" />
+ <img src="https://laravel.com/img/logomark.min.svg" height="50" style="margin-right: 20px" />
+ <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" height="50" style="margin-right: 20px" />
+ <img src="https://cdn-icons-png.flaticon.com/512/825/825533.png" height="50" style="margin-right: 20px" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Shopify_logo_2018.svg/2560px-Shopify_logo_2018.svg.png" height="50" style="margin-right: 20px" />
+ <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="50" style="margin-right: 20px" />
+ <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="50" style="margin-right: 20px" />
+ <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2015-2017.png" height="50" style="margin-right: 20px" />
+ <img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" height="50" style="margin-right: 20px" />
+ <img src="https://nodejs.org/static/images/logo.svg" height="50" style="margin-right: 20px" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="50" style="margin-right: 20px" />
+ <img src="https://developer.android.com/studio/images/studio-icon.svg" height="50" style="margin-right: 20px" />
+ <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" height="50" style="margin-right: 20px" />
 </div>
 <!--
 ## Statistiques GitHub 📈
