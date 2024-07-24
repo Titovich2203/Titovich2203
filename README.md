@@ -11,7 +11,7 @@ J'ai laissé mon empreinte sur plus d'une cinquantaine de projets, jonglant avec
 lecture se mêle harmonieusement à mon amour pour le développement personnel, créant un équilibre aussi instable
 qu'unique dans ma vie.
 
-💻 En tant que co-fondateur de [CODIFY](https://codify-sn.com/), je participe à ma petite échelle à la construction d'un
+💻 En tant que co-fondateur de [WIICODE](https://wiicode.org/), je participe à ma petite échelle à la construction d'un
 avenir numérique un tout petit mieux qu'hier. En parallèle, je suis également impliqué dans le monde fascinant de la
 finance en tant que co-fondateur de [COPAY](https://copay.sn/), une fintech dédiée à repousser les frontières de la
 finance moderne.
