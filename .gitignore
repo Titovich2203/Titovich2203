@@ -1,0 +1,13 @@
+# Fichiers de travail — ne jamais publier
+*.local.md
+CONTENT-MASTER.md
+CV_*.md
+PROMPT-CLAUDE-CODE.md
+Syne.zip
+_new/
+logos/
+photo.jpg
+photo.png
+readme-kit.zip
+readme-mock.html
+img/portrait-raw.jpg
